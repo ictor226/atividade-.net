@@ -26,3 +26,4 @@ C:\porjeto .net\atividade-.net\fundamentos\obj\Debug\net9.0\refint\fundamentos.d
 C:\porjeto .net\atividade-.net\fundamentos\obj\Debug\net9.0\fundamentos.pdb
 C:\porjeto .net\atividade-.net\fundamentos\obj\Debug\net9.0\fundamentos.genruntimeconfig.cache
 C:\porjeto .net\atividade-.net\fundamentos\obj\Debug\net9.0\ref\fundamentos.dll
+C:\porjeto .net\atividade-.net\fundamentos\obj\Debug\net9.0\fundamentos.sourcelink.json
